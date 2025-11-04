@@ -24,7 +24,7 @@
 | Технология | Назначение |
 | ----------- | ----------- |
 | Java 17    | основной язык  |
-| Spring/Spring Boot   | starter parent  |
+| Spring/Spring Boot   | каркас  |
 | JPA/Hibernate   | связь с БД  |
 | Rest controller| обработка HTTP-запросов  |
 | PostgreSQL     | основная база данных  |
